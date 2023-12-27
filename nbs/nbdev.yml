@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "miniMamba"
+  site-url: "https://ParticularlyPythonicBS.github.io/miniMamba"
+  description: "minimal version of mamba in equinox jax"
+  repo-branch: main
+  repo-url: "https://github.com/ParticularlyPythonicBS/miniMamba"
